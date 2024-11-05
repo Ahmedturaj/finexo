@@ -1,0 +1,16 @@
+@keyframes smoothMove {
+  0% {
+    transform: translateY(0); /* Start position */
+  }
+  50% {
+    transform: translateY(-50px); /* Move up */
+  }
+  100% {
+    transform: translateY(0); /* Return to start position */
+  }
+}
+
+.bounce-animation {
+  animation: smoothMove 4s infinite; /* Smooth up and down movement */
+  width: 90%; /* Adjust the width as needed */
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "1",
+    "servicesImage": "https://i.ibb.co.com/zR6PdtQ/service-1.png",
+    "ServiceTitle": "Currency Wallet",
+    "ServiceDescription": "Building responsive and user-friendly websites with modern technologies."
+  },
+  {
+    "_id": "2",
+    "servicesImage": "https://i.ibb.co.com/KzXtWY5/service-2.png",
+    "ServiceTitle": "Security Storage",
+    "ServiceDescription": "Creating high-quality mobile applications for both Android and iOS platforms."
+  },
+  {
+    "_id": "3",
+    "servicesImage": "https://i.ibb.co.com/1Ln2WqM/server-3.png",
+    "ServiceTitle": "Expert Support",
+    "ServiceDescription": "Promoting your business online through SEO, PPC, and social media marketing."
+  }
+]

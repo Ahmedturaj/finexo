@@ -1,0 +1,12 @@
+.menu li a:active,
+.menu li a:focus {
+  color: #00bbf0 !important;
+}
+
+.menu li a:hover {
+  background: transparent !important;
+}
+.menu li a:active,
+.menu li a:focus {
+  background: transparent !important;
+}

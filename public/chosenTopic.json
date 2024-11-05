@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "topicPhoto": "../src/assets/images/w1.png",
+    "topicName": "Expertise and Experience",
+    "topicDescription": "With years of experience and a team of experts, we provide top-notch services and solutions tailored to meet your needs."
+  },
+  {
+    "id": 2,
+    "topicPhoto": "../src/assets/images/w2.png",
+    "topicName": "Exceptional Customer Support",
+    "topicDescription": "Our dedicated support team is available 24/7 to assist you with any questions or issues you may have."
+  },
+  {
+    "id": 3,
+    "topicPhoto": "../src/assets/images/w3.png",
+    "topicName": "Quality Assurance",
+    "topicDescription": "We prioritize quality in all aspects of our service, ensuring that you receive the best products and solutions every time."
+  },
+  {
+    "id": 4,
+    "topicPhoto": "../src/assets/images/w4.png",
+    "topicName": "Innovation and Technology",
+    "topicDescription": "We stay up-to-date with the latest technology to provide innovative solutions that give you a competitive edge."
+  }
+]

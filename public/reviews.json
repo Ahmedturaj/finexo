@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "customerName": "Alice Johnson",
+    "customerPhoto": "../src/assets/images/client1.jpg",
+    "serviceName": "Web Development",
+    "review": "Fantastic service! My website was built exactly as I envisioned. The team was attentive to every detail, ensuring that the design matched my brand and the functionality was smooth. They went above and beyond to make sure I was satisfied with the final product, and they were always available to answer questions. Highly recommended for anyone looking for top-notch web development!"
+  },
+  {
+    "id": 2,
+    "customerName": "Michael Lee",
+    "customerPhoto": "../src/assets/images/client2.jpg",
+    "serviceName": "Graphic Design",
+    "review": "Amazing design skills! The team captured my brand perfectly, creating visuals that not only looked great but also resonated with my audience. They took the time to understand my needs and provided multiple concepts for feedback. I appreciated their creative approach and attention to detail, and they handled revisions efficiently. Will definitely hire them again for future design projects!"
+  },
+  {
+    "id": 3,
+    "customerName": "Sophia Brown",
+    "customerPhoto": "../src/assets/images/client1.jpg",
+    "serviceName": "SEO Optimization",
+    "review": "The SEO work they did for my site has made a huge difference! My traffic has steadily increased, and I am ranking higher on Google for key search terms. The team explained the process in a way that was easy to understand, and they provided detailed reports on the improvements made. Their knowledge and expertise in SEO are impressive. I’m thrilled with the results and look forward to continuing to work with them."
+  },
+  {
+    "id": 4,
+    "customerName": "David Kim",
+    "customerPhoto": "../src/assets/images/client2.jpg",
+    "serviceName": "Mobile App Development",
+    "review": "The mobile app they developed for us has been a game-changer. It's fast, user-friendly, and provides everything we needed. Throughout the development process, they kept us informed, implemented feedback seamlessly, and met our tight deadlines. I was especially impressed with their problem-solving skills and ability to adapt to unexpected challenges. This team truly cares about delivering high-quality work and making their clients happy. Highly recommend them for mobile development projects!"
+  }
+]

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.first_color {
+  background: #00204a;
+}
+.textColor {
+  color: #00bbf0;
+}
+.bg-gradient-custom {
+  background: linear-gradient(130deg, #231a6f, #0f054c);
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "position": "CEO & Founder",
+    "photo": "../src/assets/images/team-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Michael Lee",
+    "position": "Chief Technology Officer",
+    "photo": "../src/assets/images/team-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Brown",
+    "position": "Head of Marketing",
+    "photo": "../src/assets/images/team-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "position": "Lead Designer",
+    "photo": "../src/assets/images/team-4.jpg"
+  }
+]
