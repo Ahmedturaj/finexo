@@ -33,12 +33,12 @@ const Footer = () => {
         </nav>
         <nav>
           <h6
-            className="text-3xl font-bold text-white ml-16
+            className="text-3xl font-bold text-white md:ml-16
         "
           >
             Info
           </h6>
-          <p className="w-9/12 mx-auto">
+          <p className="w-9/12 md:mx-auto">
             necessary, making this the first true generator on the Internet. It
             uses a dictionary of over 200 Latin words, combined with a handful
           </p>
@@ -51,8 +51,8 @@ const Footer = () => {
           <a className="link link-hover text-xl">Why Us</a>
           <a className="link link-hover text-xl">Team</a>
         </nav>
-        <form className="ml-12">
-          <h6 className="text-3xl font-bold text-white">Newsletter</h6>
+        <form className="md:ml-12 ">
+          <h6 className="md:text-3xl font-bold text-white">Newsletter</h6>
           <fieldset className="form-control w-80">
             <div className="join">
               <input
@@ -61,7 +61,7 @@ const Footer = () => {
                 className="bg-transparent border-b text-white border-white text-2xl"
               />
             </div>
-            <button className="px-10 py-2 mt-5 text-white bg-[#00bbf0] cursor-pointer">
+            <button className="md:px-10 py-2 w-4/12 mt-5 text-white bg-[#00bbf0] cursor-pointer">
               Subscribe
             </button>
           </fieldset>

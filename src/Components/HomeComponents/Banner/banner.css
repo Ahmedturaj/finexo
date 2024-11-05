@@ -12,5 +12,20 @@
 
 .bounce-animation {
   animation: smoothMove 4s infinite; /* Smooth up and down movement */
-  width: 90%; /* Adjust the width as needed */
+  /* Adjust the width as needed */
+}
+.banner {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wave-header {
+  width: 100%;
+  background: #00204a;
+}
+
+.svgPicture {
+  position: absolute;
+  bottom: -460px;
 }
